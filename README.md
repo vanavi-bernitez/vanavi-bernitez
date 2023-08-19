@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/viviana-bernitez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="viviana.bernitez@gmail.com" target="_blank">
+  <a href="mailto:viviana.bernitez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/1093179501883699220" target="_blank">
