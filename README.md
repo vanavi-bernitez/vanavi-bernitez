@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Viviana Benitez. I'm an electronic engineer discovering the wonderful world of web development.</p>
+<p align="left">My name is Viviana Benitez. I'm an electronic engineer and developer. </p>
 
 ###
 
